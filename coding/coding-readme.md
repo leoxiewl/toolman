@@ -36,8 +36,7 @@
   - **Supabase**：开源的 Firebase 替代方案，基于 PostgreSQL 构建，有免费额度。
   - **Vercel Postgres**：Vercel 提供的托管 PostgreSQL 服务，有免费额度。
 - **MySQL**：轻量级、易于上手，广泛应用于各种 Web 项目。适用于中小型项目或对性能要求较高的应用。
-
-
+- 
 
 ## 部署上线
 
